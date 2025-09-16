@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando Backend Java com Spring Boot<br>📫 Contate-me no email: weslleycouto.dev@gmail.com</p>
+<p align="left">🌱 Estudando Backend Java com Spring Boot<br>📫 Contate-me no email: wesleyhprozao@gmail.com</p>
 
 ###
 
