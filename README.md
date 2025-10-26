@@ -10,9 +10,7 @@
 
 ###
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,firebase,py,django,git,github,linux,&theme=dark"
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     
 ###
 
