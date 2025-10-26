@@ -10,7 +10,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring-boot,angular,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,linux)](https://skillicons.dev)
     
 ###
 
