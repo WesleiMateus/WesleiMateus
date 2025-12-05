@@ -11,10 +11,6 @@
 ###
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,linux,arch)](https://skillicons.dev)
-    
-###
-
-<h2 align="left">Stats</h2>
 
 ###
 
