@@ -10,7 +10,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind)](https://skillicons.dev)
 
 ###
 
