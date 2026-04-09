@@ -20,7 +20,7 @@ Sobre mim:
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,cypress,selenium,postman,npm,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,cypress,selenium,gherkin,postman,npm,git)](https://skillicons.dev)
 
 ###
 
