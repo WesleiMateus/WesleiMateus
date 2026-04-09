@@ -6,9 +6,9 @@
 
 ###
 
-###
-
 Sobre mim:
+
+###
 
   Profissional em transição para a área de Qualidade de Software, com formação prática voltada a testes manuais e automatizados. 
 
