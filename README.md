@@ -6,6 +6,8 @@
 
 ###
 
+###
+
 Sobre mim:
 
   Profissional em transição para a área de Qualidade de Software, com formação prática voltada a testes manuais e automatizados. 
@@ -13,6 +15,7 @@ Sobre mim:
   Possuo certificações em fundamentos de testes de software, automação com JavaScript, testes de API (Postman), Gherkin e BDD, padronização de escrita e ferramentas de gestão de qualidade em equipes. 
 
   Tenho conhecimento em metodologias ágeis e estou em busca da primeira oportunidade para aplicar e desenvolver essas habilidades em um ambiente colaborativo e dinâmico.
+###
 
 ###
 
