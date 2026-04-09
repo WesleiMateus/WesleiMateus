@@ -10,7 +10,7 @@
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,cypress,selenium,java,postman,npm,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,cypress,selenium,java,postman,npm,git)](https://skillicons.dev)
 
 ###
 
