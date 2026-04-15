@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Quallity Assurance - QA | Testes Manuais e Automatizados<br>📫 Me chama nesse e-mail ai ó: wesleyhprozao@gmail.com</p>
+<p align="left">🌱 Quallity Assurance - QA | Testes Manuais e Automatizados<br>📫 Disponível no email: wesleyhprozao@gmail.com</p>
 
 ###
 
