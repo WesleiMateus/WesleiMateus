@@ -29,13 +29,4 @@ Sobre mim:
 
 <h2 align="left">Social Media</h2>
 
-###
-
-<div style="display: flex;">
-  <a href="www.linkedin.com/in/wesleioqa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dev_weslei/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+www.linkedin.com/in/wesleioqa
