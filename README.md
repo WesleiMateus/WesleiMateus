@@ -23,7 +23,7 @@ Sobre mim:
 
 ###
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,cypress,selenium,gherkin,postman,npm,git,api)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,cypress,selenium,gherkin,postman,npm,git)](https://skillicons.dev)
 
 ###
 
@@ -31,7 +31,7 @@ Sobre mim:
 
 ###
 
-<div align="left">
+<div>
   <a href="www.linkedin.com/in/wesleioqa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
